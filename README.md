@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Rodrigo</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-- 🔭 I’m currently working on [Roamers Route](https://github.com/maxkaiser11/roamers-route)
+- 🔭 I’m currently working on [Roamers Route](https://www.roamersroute.com/)
 
 - 🌱 I’m currently learning **JavaScript**
 
