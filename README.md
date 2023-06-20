@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h1 align="center">Heyo👋, I'm Rodrigo</h1>
 <h3 align="center">Junior Web Developer</h3>
 
 - 🔭 I’m currently working on [Roamers Route](https://github.com/maxkaiser11/roamers-route)
